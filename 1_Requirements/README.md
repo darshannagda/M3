@@ -1,4 +1,30 @@
-# M3_WIPER_CONTROL_SYSTEM
+# M3_AUTOMOBOBILE_WINDSCREEN_WASHER_SYSTEM
+
+This Wiper Speed Control System is employed  in all sorts of  vehicles like,cars,trucks,etc, and its key function is to remove water drops and dust from the vehicle's wind screen. Because driving a vehicle in the rain is challenging, we will use wipers to clear the wind screen of the automobile, which is a mirror, so that we may drive the vehicle even in the rain.
+
+
+### WORKING PROCESS
+* If the car needs to be in ACC mode,the button needs to be pressed ONCE.
+
+* If the car needs to be in Ignition mode,the button needs to be pressed TWICE.
+
+* If the wiper needs to be turned on,the button needs to be pressed THRICE.
+
+* If the wiper to be turned off,the button needs to be pressed FOUR TIMES.
+
+# SWOT Analysis 
+## Strength
+* Clarity
+* While driving the wiper does not stop in between the window.
+* Reliable
+## Weakness 
+* Expensive
+* Not quick
+* Breakable
+* Manual
+## Threats 
+* Board takes time to repair.
+* Not Durable# M3_WIPER_CONTROL_SYSTEM
 
 This Wiper Speed Control System is utilised in all sorts of automobiles, and its primary function is to remove rain air drops from the vehicle's front screen. Because driving a vehicle in the rain is quite difficult, we will use wipers to clear the front screen of the vehicle, which is a mirror, so that we may drive the vehicle even in the rain.
 
