@@ -55,10 +55,10 @@ This Wiper Speed Control System is utilised in all sorts of automobiles, and its
 ## High level requirements
 | ID | Discription | status |
 | --- | --- | --- | 
-| HR_01 |	Car is in ACC mode |	Implemented |
-| HR_02 |	Car is in Ignition mode |	Implemented |
-| HR_03 |	Wiper turned on |	Implemented |
-| HR_04 |	Wiper turned off |	Implemented |
+| HR_01 |	Car - ACC mode |	Implemented |
+| HR_02 |	Car - Ignition mode |	Implemented |
+| HR_03 |	Wiper -d on |	Implemented |
+| HR_04 |	Wiper - off |	Implemented |
 ## Low level requirements
 | ID |	Discription |	status |
 | --- | --- | --- | 
