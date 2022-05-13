@@ -53,17 +53,17 @@ This Wiper Speed Control System is utilised in all sorts of automobiles, and its
 
 # Requirements
 ## High level requirements
-| ID | Discription | status |
+| ID | Elucidation | status |
 | --- | --- | --- | 
-| HR_01 |	Car - ACC mode |	Implemented |
-| HR_02 |	Car - Ignition mode |	Implemented |
-| HR_03 |	Wiper -d on |	Implemented |
-| HR_04 |	Wiper - off |	Implemented |
+| HLR_01 |	Car - ACC mode |	Implemented |
+| HLR_02 |	Car - Ignition mode |	Implemented |
+| HLR_03 |	Wiper -d on |	Implemented |
+| HLR_04 |	Wiper - off |	Implemented |
 ## Low level requirements
-| ID |	Discription |	status |
+| ID |	Elucidation |	status |
 | --- | --- | --- | 
-| LR_01 |	Button pressed ONCE for two seconds - ON LED RED |	Implemented |
-| LR_02 |	Button pressed once again times - OFF LED RED |	Implemented |
-| LR_03	|Button pressed two time - ON BLUE,GREEN,ORANGE |	Implemented |
-| LR_04 |	Button pressed again for two seconds - OFF ORANGE,GREEN,BLUE |	Implemented |
+| LLR_01 |	Button pressed ONCE for two seconds - ON LED RED |	Implemented |
+| LLR_02 |	Button pressed once again times - OFF LED RED |	Implemented |
+| LLR_03	|Button pressed two time - ON BLUE,GREEN,ORANGE |	Implemented |
+| LLR_04 |	Button pressed again for two seconds - OFF ORANGE,GREEN,BLUE |	Implemented |
 
