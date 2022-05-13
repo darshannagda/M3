@@ -1,7 +1,7 @@
 # OUTPUT
 
 
-## 1. Button  pressed once again for two seconds
+## 1. Button  pressed once  for two seconds
 * Car is on ACC mode that means car turned off.
 ![1](https://user-images.githubusercontent.com/42571912/168302266-8e25ba1b-7731-434b-bf7b-4d8447a71db3.PNG)
 
