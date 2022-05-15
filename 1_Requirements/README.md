@@ -1,4 +1,4 @@
-# M3_AUTOMOBOBILE_WINDSCREEN_WASHER_SYSTEM
+# M3_CAR_WIPER_CONTROL
 
 This Wiper Speed Control System is employed  in all sorts of  vehicles like,cars,trucks,etc, and its key function is to remove water drops and dust from the vehicle's wind screen. Because driving a vehicle in the rain is challenging, we will use wipers to clear the wind screen of the automobile, which is a mirror, so that we may drive the vehicle even in the rain.
 
